@@ -1,0 +1,30 @@
+{
+	"pdf": "demo_slides.pdf",
+	"slides": [1, 2, 3, 44, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 39, 40, 41, 42, 43, 33, 34, 35, 2],
+	"videos": {
+		"s39": {
+			"path": "videos/qr.mp4",
+			"fps": 120
+		},
+		"s40": {
+			"path": "videos/submit_Response.mp4",
+			"fps": 120
+		},
+		"s41": {
+			"path": "videos/scroll_submissions.mp4",
+			"fps": 120
+		},
+		"s42": {
+			"path": "videos/summary1.mp4",
+			"fps": 120
+		},
+		"s43": {
+			"path": "videos/summary2.mp4",
+			"fps": 120
+		},
+		"s44": {
+			"path": "videos/notetake.mp4",
+			"fps": 120
+		}
+	}
+}
