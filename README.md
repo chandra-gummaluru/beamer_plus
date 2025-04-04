@@ -2,6 +2,8 @@
 
 Beamer+ is a Python-based application that enhances Beamer presentations by integrating video playback and drawing capabilities, creating a rich multimedia experience for presentations.
 
+![Screenshot_3-4-2025_221514_www cs toronto edu](https://github.com/user-attachments/assets/439c5091-9914-4413-b4c4-7cec6445cc99)
+
 ## Features
 
 - **Beamer Presentation Integration**: Display PDF slides created with Beamer.
